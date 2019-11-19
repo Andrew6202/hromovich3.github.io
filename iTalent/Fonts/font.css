@@ -1,0 +1,9 @@
+@font-face {
+	font-family: DIN-Round-Pro-Black;
+	src: url("DIN-Round-Pro-Black/DINRoundPro-Bold.eot");
+	src: url("DIN-Round-Pro-Black/DINRoundPro-Bold.eot?#iefix") format("embedded-opentype"),
+	url("DIN-Round-Pro-Black/DINRoundPro-Bold.woff") format("woff"),
+	url("DIN-Round-Pro-Black/DINRoundPro-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
